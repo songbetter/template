@@ -34,5 +34,6 @@ src
 - Errorboundary와 Suspense 무엇을 보여줄 것인지 결과에만 집중하기 위해 로딩과 에러처리를 위임한 컴포넌트
 
 ### Feature
-- [1. 장바구니](https://github.com/songbetter/template/tree/main/src/feature/cart)
-- [2. 로그인](https://github.com/songbetter/template/tree/main/src/feature/auth)
+- [1. 언어변경](https://github.com/songbetter/template/tree/main/src/feature/locales)
+- [2. 장바구니](https://github.com/songbetter/template/tree/main/src/feature/cart)
+- [3. 로그인](https://github.com/songbetter/template/tree/main/src/feature/auth)
