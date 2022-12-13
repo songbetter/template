@@ -1,0 +1,17 @@
+{
+  "nav_signin": "로그인",
+  "footer_contactus": "카카오 플러스 친구 <a href={link} style='color:red'>{cs_channel}</a> 에서 상담(10:00-18:00)",
+  "footer_cs": "'고객센터'",
+  "footer_link": "/",
+  "signin_title": "로그인",
+  "signin_name_label": "이름",
+  "signin_name_placeholder": "Username or Email id",
+  "signin_password_label": "비밀번호",
+  "signin_password_placeholder": "12341!aA",
+  "signin_mobile_label": "전화번호",
+  "signin_mobile_placeholder": "+82 10-1234-5678",
+  "cart_final_payment_amount": "최종 결제 금액",
+  "cart_final_quantity": "최종 수량",
+  "cart_quantity": "수량",
+  "unit_price": "개"
+}

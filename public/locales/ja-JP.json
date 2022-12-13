@@ -1,0 +1,17 @@
+{
+  "nav_signin": "ログイン, ログオン.",
+  "footer_contactus": "チャットでお問い合わせ： <a href={link} style='color:red'>{cs_channel}</a> カスタマーセンターとチャットする​（受付時間：平日10:00～18:00）​",
+  "footer_cs": "ここをクリックして ",
+  "footer_link": "/",
+  "signin_title": "Sign In 일본어",
+  "signin_name_label": "Username 일본어",
+  "signin_name_placeholder": "Username or Email id 일본어",
+  "signin_password_label": "Password 일본어",
+  "signin_password_placeholder": "Password 일본어",
+  "signin_mobile_label": "Phone Number 일본어",
+  "signin_mobile_placeholder": "+82 10-1234-5678",
+  "cart_final_payment_amount": "final payment amount 일본어",
+  "cart_final_quantity": "final quantity 일본어",
+  "cart_quantity": "수량 일본어",
+  "unit_price": "ea. 일본어"
+}

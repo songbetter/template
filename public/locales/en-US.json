@@ -1,0 +1,17 @@
+{
+  "nav_signin": "signin",
+  "footer_contactus": "Contact us: <a href={link} style='color:red'>{cs_channel}</a> to chat with our customer service (10:00am ~ 18:00pm)",
+  "footer_cs": "Click here",
+  "footer_link": "/",
+  "signin_title": "Sign In",
+  "signin_name_label": "Username",
+  "signin_name_placeholder": "Username or Email id",
+  "signin_password_label": "Password",
+  "signin_password_placeholder": "Password",
+  "signin_mobile_label": "Phone Number",
+  "signin_mobile_placeholder": "+82 10-1234-5678",
+  "cart_final_payment_amount": "final payment amount",
+  "cart_final_quantity": "final quantity",
+  "cart_quantity": "quantity",
+  "unit_price": "ea."
+}
